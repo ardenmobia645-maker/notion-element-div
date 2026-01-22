@@ -1,0 +1,46 @@
+
+
+body{
+    margin: 0;
+}
+
+
+
+
+
+
+header{
+    background-color: #040b14;
+    width: 300px;
+    text-align: center;
+    height: 100vh;
+    padding: 10px;
+
+}
+
+
+img{
+    width: 120px;
+    border: 8px solid rgba(245, 222, 179, 0.228) ;
+     border-radius: 50%  ;
+}
+h1{
+    color:  white;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+}
+.container-social-median{
+    height: auto ;
+    display: flex;
+    justify-content: space-around;
+}i{
+    font-size: 16px;
+    color: white;
+}
+.social-media{
+    background-color:color-mix(in srgb,#ffffff, transparent 90%);
+    height: 40px;
+    width: 40px;
+    align-content: center;
+    border-radius: 50%;
+}
